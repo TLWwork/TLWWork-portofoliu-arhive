@@ -1,0 +1,19 @@
+{
+  "name": "tlwwork-portofoliu-arhive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TLWwork/TLWWork-portofoliu-arhive.git"
+  },
+  "author": "Daniel Luntras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TLWwork/TLWWork-portofoliu-arhive/issues"
+  },
+  "homepage": "https://github.com/TLWwork/TLWWork-portofoliu-arhive#readme"
+}
