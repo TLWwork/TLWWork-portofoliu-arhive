@@ -39,4 +39,7 @@ Install my-project with npm
   npm install tlw
   cd tlw
 ```
-   
+## Figma Project
+
+https://www.figma.com/file/HTGfFjWAO34l6GdF7RYKDs/Construction-Website-(Community)?node-id=0-1&t=v1pw4ze7oVfbI1hT-0
+
