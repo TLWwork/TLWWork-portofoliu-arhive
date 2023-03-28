@@ -2,7 +2,7 @@
   "name": "tlwwork-portofoliu-arhive",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel portofoliu.html",
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/TLWwork/TLWWork-portofoliu-arhive#readme",
   "dependencies": {
+    "nodemon": "^2.0.22",
     "parcel": "^2.8.3"
   },
   "devDependencies": {
